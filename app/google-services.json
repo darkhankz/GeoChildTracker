@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338448748456",
+    "project_id": "geochildtracker-1d323",
+    "storage_bucket": "geochildtracker-1d323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338448748456:android:3f683981101d8d9065979d",
+        "android_client_info": {
+          "package_name": "com.example.geochildtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338448748456-pefmhrald9s32d7v0q6bf1e6mtalkimi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVe-cSLZQXH_JB9jPJgAUNbt-xOPag6KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338448748456-pefmhrald9s32d7v0q6bf1e6mtalkimi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
