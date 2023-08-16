@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973902358180",
+    "firebase_url": "https://geochildtracker-default-rtdb.firebaseio.com",
+    "project_id": "geochildtracker",
+    "storage_bucket": "geochildtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973902358180:android:464c92860e89f74717e831",
+        "android_client_info": {
+          "package_name": "com.example.geochildtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973902358180-moelgrd3829v3elc39la16dpd48aat1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geochildtracker",
+            "certificate_hash": "fb8cdd2a5674bfd36d01d9f18dba2c371631061e"
+          }
+        },
+        {
+          "client_id": "973902358180-ek03hnbjs058bf5gorequ3leoem64m40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgu3fvpuMudpVANpZn0aTO68KZP0SYfWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973902358180-ek03hnbjs058bf5gorequ3leoem64m40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
